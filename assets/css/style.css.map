@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,YAAY;EACpB,OAAO,EAAE,YAAY;EACrB,UAAU,EAAE,qBAAqB;EACjC,SAAS,EAAE,YAAY;CAC1B",
+    "sources": [
+        "style.scss",
+        "_typoscale.scss",
+        "_variables.scss",
+        "_animations.scss",
+        "_custom.scss",
+        "_responsive.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
